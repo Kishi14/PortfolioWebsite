@@ -39,13 +39,13 @@
 }
 
 .btn{
-    padding: 2rem;
+    padding: 1.5rem;
     font-size: 1.6rem;
 }
 
 .section-about{
     display: flex;
-    height: 350px;
+    height: 450px;
     flex-direction: row;
     align-items: stretch;
     border-bottom: 3px solid rgb(44, 154, 187);
@@ -59,7 +59,7 @@
 .section-contact{
     display: flex;
     flex-direction: row;
-    height: 300px;
+    height: 400px;
     justify-content: space-between;
     width: 80%;
     margin: 0 auto;

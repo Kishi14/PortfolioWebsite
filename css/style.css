@@ -117,7 +117,7 @@ p, li{
 
 /* About Section Styling */
 .section-about{
-    height: 1000px;
+    height: 1200px;
     color: white;
     background: #333;
     display: flex;
@@ -181,7 +181,7 @@ p, li{
 }
 .map{
     flex: 1;
-    background: url('../img/people.jpg') no-repeat center center/cover;
+    background: url('../img/location.png') no-repeat center center/cover;
 }
 
 /* Footer Styling */

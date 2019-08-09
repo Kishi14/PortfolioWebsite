@@ -6,7 +6,9 @@
     align-items: center;
     justify-content: space-between;
 }
-
+.main{
+    height: 80vh;
+}
 .logo{
     flex: 2;
 }
@@ -37,9 +39,12 @@
 }
 
 .section-about{
-    height: 800px;
+    height: 900px;
 }
 
+.section-contact{
+    height: 600px;
+}
 .footer{
     padding-top: 1.5rem;
 }
